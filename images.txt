@@ -12,8 +12,8 @@ mysql:5.7.36
 mongo:5.0
 bitnami/kafka:2.8.1
 elasticsearch:7.17.25
-nacos-server:v2.2.1
-nacos-server:v2.4.0.1
+nacos/nacos-server:v2.2.1
+nacos/nacos-server:v2.4.0.1
 postgres:12
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 minio/minio:RELEASE.2024-05-01T01-11-10Z
