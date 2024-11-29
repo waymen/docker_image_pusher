@@ -21,4 +21,5 @@ minio/minio:RELEASE.2024-05-01T01-11-10Z
 logstash:7.17.25
 #filebeat:7.17.25
 calico/cni:v3.28.0
+busybox:stable
 
