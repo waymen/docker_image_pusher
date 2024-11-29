@@ -16,3 +16,6 @@ nacos-server:v2.2.1
 nacos-server:v2.4.0.1
 postgres:12
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+minio/minio:RELEASE.2024-05-01T01-11-10Z
+logstash:7.17.25
+filebeat:7.17.25
