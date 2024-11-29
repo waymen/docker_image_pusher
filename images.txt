@@ -22,4 +22,6 @@ logstash:7.17.25
 #filebeat:7.17.25
 calico/cni:v3.28.0
 busybox:stable
+nginx
+nginx:1.21.1
 
