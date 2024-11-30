@@ -15,7 +15,6 @@ redis:6.2.14
 mysql:5.7.36
 mongo:5.0
 apache/kafka:3.9.0
-apache/kafka:3.9.1
 apache/kafka:3.8.0
 apache/kafka:3.8.1
 apache/kafka:3.7.0
