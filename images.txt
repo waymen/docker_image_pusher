@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # 下面的镜像前面加上 docker pull registry.cn-shenzhen.aliyuncs.com/library-base/下面的标签即可拉取
 # 例如 docker pull registry.cn-shenzhen.aliyuncs.com/library-base/zookeeper:3.5.9
+
 #zookeeper:3.6.3
 #zookeeper:3.6.4
 #zookeeper:3.5.9
@@ -14,18 +15,10 @@
 #zookeeper:3.9
 #zookeeper:3.9.3
 #redis:6.2.14
-redis:7.2.6
-redis:7.4.1
+#redis:7.2.6
+#redis:7.4.1
 #mysql:5.7.36
 #mongo:5.0
-#apache/kafka:3.9.0
-#apache/kafka:3.8.0
-#apache/kafka:3.8.1
-#apache/kafka:3.7.0
-#apache/kafka:3.7.1
-#bitnami/kafka:3.9.0
-#bitnami/kafka:2.8.1
-#bitnami/kafka:3.1.0
 #elasticsearch:7.17.25
 #nacos/nacos-server:v2.2.1
 #nacos/nacos-server:v2.4.0.1
@@ -39,8 +32,16 @@ redis:7.4.1
 #busybox:stable
 #nginx
 #nginx:1.21.1
-bitnami/zookeeper:3.8
-bitnami/zookeeper:3.8.3
-bitnami/zookeeper:3.8.4
-bitnami/zookeeper:3.9
-bitnami/zookeeper:3.9.3
+#bitnami/zookeeper:3.8
+#bitnami/zookeeper:3.8.3
+#bitnami/zookeeper:3.8.4
+#bitnami/zookeeper:3.9
+#bitnami/zookeeper:3.9.3
+#bitnami/kafka:3.9.0
+#bitnami/kafka:2.8.1
+#bitnami/kafka:3.1.0
+#apache/kafka:3.9.0
+#apache/kafka:3.8.0
+#apache/kafka:3.8.1
+#apache/kafka:3.7.0
+#apache/kafka:3.7.1
