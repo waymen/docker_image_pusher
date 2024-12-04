@@ -45,3 +45,4 @@
 #apache/kafka:3.8.1
 #apache/kafka:3.7.0
 #apache/kafka:3.7.1
+openproject/openproject:15
