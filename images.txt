@@ -19,6 +19,9 @@
 #mysql:5.7.36
 #mongo:5.0
 #elasticsearch:7.17.25
+kibana:7.17.25
+kibana:7.17.26
+elasticsearch:7.17.26
 #nacos/nacos-server:v2.2.1
 #nacos/nacos-server:v2.4.0.1
 #nacos/nacos-peer-finder-plugin:1.1
