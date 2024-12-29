@@ -33,10 +33,10 @@
 #calico/cni:v3.28.0
 #busybox:stable
 #nginx
-nginx:1.20.1
-nginx:1.20.2
-nginx:1.20.3
-nginx:1.21.1
+#nginx:1.20.1
+#nginx:1.20.2
+#nginx:1.20.3
+#nginx:1.21.1
 #nginx:1.21.1
 #bitnami/zookeeper:3.6.4
 #bitnami/kafka:2.8.1
