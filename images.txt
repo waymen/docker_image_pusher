@@ -59,4 +59,5 @@
 #apache/kafka:3.7.1
 #openproject/openproject:15
 #portainer/portainer-ce
-busybox
+#busybox
+velero/velero:v1.5.4
