@@ -60,5 +60,6 @@
 #openproject/openproject:15
 #portainer/portainer-ce
 #busybox
-velero/velero:v1.9.7
-velero/velero-plugin-for-aws:v1.5.5
+#velero/velero:v1.9.7
+#velero/velero-plugin-for-aws:v1.5.5
+velero/velero-restic-restore-helper:v1.9.7"
