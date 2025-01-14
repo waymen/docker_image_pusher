@@ -4,6 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+
+
 # 下面的镜像前面加上 docker pull registry.cn-shenzhen.aliyuncs.com/library-base/下面的标签即可拉取
 # 例如 docker pull registry.cn-shenzhen.aliyuncs.com/library-base/zookeeper:3.5.9
 #zookeeper:3.6.3
@@ -62,6 +65,6 @@
 #busybox
 #velero/velero:v1.9.7
 #velero/velero-plugin-for-aws:v1.5.5
-velero/velero-restic-restore-helper:v1.9.7
-velero/velero:v1.15.1
-velero/velero-plugin-for-aws:v1.11.1
+#velero/velero-restic-restore-helper:v1.9.7
+#velero/velero:v1.15.1
+#velero/velero-plugin-for-aws:v1.11.1
