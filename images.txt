@@ -82,4 +82,5 @@
 #velero/velero-restic-restore-helper:v1.9.7
 #velero/velero:v1.15.1
 #velero/velero-plugin-for-aws:v1.11.1
-centos
+#centos
+atlassian/ssh-ubuntu:0.2.2
