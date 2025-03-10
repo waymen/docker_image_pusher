@@ -83,4 +83,5 @@
 #velero/velero:v1.15.1
 #velero/velero-plugin-for-aws:v1.11.1
 #centos
-atlassian/ssh-ubuntu:0.2.2
+#atlassian/ssh-ubuntu:0.2.2
+velero/velero:v1.15.2
