@@ -5,10 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
-
 # 下面的镜像前面加上 docker pull registry.cn-shenzhen.aliyuncs.com/library-base/下面的标签即可拉取
-# 例如 docker pull registry.cn-shenzhen.aliyuncs.com/library-base/zookeeper:3.5.9
+# 例如: docker pull registry.cn-shenzhen.aliyuncs.com/library-base/zookeeper:3.5.9
 #zookeeper:3.6.3
 #zookeeper:3.6.4
 #zookeeper:3.5.9
@@ -86,3 +84,6 @@
 #atlassian/ssh-ubuntu:0.2.2
 #velero/velero:v1.15.2
 #velero/velero-restore-helper:v1.15.2
+minio/minio:RELEASE.2025-02-28T09-55-16Z
+minio/minio:RELEASE.2025-02-18T16-25-55Z
+minio/minio:RELEASE.2025-02-07T23-21-09Z
