@@ -89,4 +89,5 @@
 #minio/minio:RELEASE.2025-02-07T23-21-09Z
 #sonarsource/sonar-scanner-cli:5.0.1
 #python:3.11.3-slim
-openjdk:11-slim
+#openjdk:11-slim
+calico/kube-controllers:v3.18.6
