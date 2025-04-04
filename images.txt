@@ -94,7 +94,9 @@
 #python:3.13.2-slim
 #python:3.12.9-slim
 #registry.k8s.io/pause:3.6
-docker.io/calico/cni:v3.29.3
-docker.io/calico/node:v3.29.3
-docker.io/calico/kube-controllers:v3.29.3
-
+#docker.io/calico/cni:v3.29.3
+#docker.io/calico/node:v3.29.3
+#docker.io/calico/kube-controllers:v3.29.3
+docker.io/calico/cni:v3.28.3
+docker.io/calico/node:v3.28.3
+docker.io/calico/kube-controllers:v3.28.3
