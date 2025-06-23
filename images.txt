@@ -224,5 +224,6 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #kubesphere/kube-rbac-proxy:v0.11.0
 #kubesphere/kube-state-metrics:v2.6.0
 #kubesphere/notification-tenant-sidecar:v3.2.0
-kubesphere/ks-apiserver:v3.4.1
-
+#kubesphere/ks-apiserver:v3.4.1
+kubesphere/ks-console:v3.4.1
+kubesphere/ks-controller-manager:v3.4.1
