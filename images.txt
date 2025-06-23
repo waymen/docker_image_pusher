@@ -221,7 +221,8 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #blacklabelops/logrotate
 #mirrorgooglecontainers/defaultbackend-amd64:1.4
 #kubesphere/ks-apiserver:v3.4.1
-kubesphere/kube-rbac-proxy:v0.11.0
-kubesphere/kube-state-metrics:v2.6.0
-kubesphere/notification-tenant-sidecar:v3.2.0
+#kubesphere/kube-rbac-proxy:v0.11.0
+#kubesphere/kube-state-metrics:v2.6.0
+#kubesphere/notification-tenant-sidecar:v3.2.0
+kubesphere/ks-apiserver:v3.4.1
 
