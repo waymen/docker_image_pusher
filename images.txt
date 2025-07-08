@@ -232,4 +232,5 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #prom/node-exporter:v1.3.1
 #prom/alertmanager:v0.23.0
 #kubesphere/prometheus-config-reloader:v0.55.1
-prom/alertmanager:v0.23.0
+#prom/alertmanager:v0.23.0
+openjdk:8
