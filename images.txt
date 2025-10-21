@@ -235,8 +235,9 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #prom/alertmanager:v0.23.0
 #openjdk:8
 #minio/mc
-calico/node:v3.11.3
-calico/kube-controllers:v3.11.3
-calico/pod2daemon-flexvol:v3.11.3
-calico/cni:v3.11.3
+#calico/node:v3.11.3
+#calico/kube-controllers:v3.11.3
+#calico/pod2daemon-flexvol:v3.11.3
+#calico/cni:v3.11.3
+python:3.10.14
 
