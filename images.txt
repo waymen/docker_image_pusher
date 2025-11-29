@@ -240,9 +240,10 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #calico/pod2daemon-flexvol:v3.11.3
 #calico/cni:v3.11.3
 # python:3.10.14
-prom/alertmanager:v0.26.0
-prom/alertmanager:v0.27.0
-prom/alertmanager:v0.28.0
-prom/alertmanager:v0.28.1
-prom/alertmanager:v0.29.0
+#prom/alertmanager:v0.26.0
+#prom/alertmanager:v0.27.0
+#prom/alertmanager:v0.28.0
+#prom/alertmanager:v0.28.1
+#prom/alertmanager:v0.29.0
+python:3.14.0-slim
 
