@@ -245,5 +245,12 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #prom/alertmanager:v0.28.0
 #prom/alertmanager:v0.28.1
 #prom/alertmanager:v0.29.0
-python:3.14.0-slim
+#python:3.14.0-slim
+prom/node-exporter:v0.18.1
+prom/prometheus:v2.26.0
+kubesphere/prometheus-config-reloader:v0.42.1
+jimmidyson/configmap-reload:v0.3.0
+prom/alertmanager:v0.21.0
+minio/minio:RELEASE.2019-08-07T01-59-21Z
+kubesphere/prometheus-operator:v0.42.1
 
