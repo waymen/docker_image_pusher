@@ -253,4 +253,8 @@ jimmidyson/configmap-reload:v0.3.0
 prom/alertmanager:v0.21.0
 minio/minio:RELEASE.2019-08-07T01-59-21Z
 kubesphere/prometheus-operator:v0.42.1
+haproxy:2.0.22-alpine
+kubesphere/ks-apiserver:v3.1.1
+kubesphere/ks-controller-manager:v3.1.1
+kubesphere/kubectl:v1.18.0
 
