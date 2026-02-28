@@ -259,11 +259,12 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #kubesphere/kubectl:v1.18.0
 #kubesphere/prometheus-config-reloader:v0.42.1
 #quay.io/prometheus/blackbox-exporter:0.28.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.16.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.16.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.4.0
 
 
