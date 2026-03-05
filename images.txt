@@ -265,7 +265,7 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.6.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.4.2
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.4.2
 #kubesphere/ks-apiserver:v3.1.0
 #kubesphere/ks-console:v3.1.0
 #kubesphere/ks-controller-manager:v3.1.0
