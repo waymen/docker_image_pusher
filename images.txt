@@ -275,5 +275,6 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #xuxueli/xxl-job-admin:2.4.0
 #apache/seata-server:latest
 #apache/seata-server:2.5.0
-eclipse-temurin:8-jre
+#eclipse-temurin:8-jre
+node:20.20
 
