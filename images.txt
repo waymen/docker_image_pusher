@@ -281,5 +281,6 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 # ubuntu/jdk:17-24.04
 # seataio/seata-server:1.6.0
 # eclipse-temurin:17
-xuxueli/xxl-job-admin:3.4.0
-xuxueli/xxl-job-admin:3.3.2
+#xuxueli/xxl-job-admin:3.4.0
+#xuxueli/xxl-job-admin:3.3.2
+seataio/seata-server:1.8.0.2
